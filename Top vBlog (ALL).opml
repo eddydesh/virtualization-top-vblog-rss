@@ -150,7 +150,7 @@
             <outline type="rss" text="Virtual to the Core" title="Virtual to the Core" xmlUrl="http://www.virtualtothecore.com/en/?feed=rss2" htmlUrl="https://www.virtualtothecore.com/en"/>
             <outline type="rss" text="SOSTech" title="SOSTech" xmlUrl="http://sostech.wordpress.com/feed/" htmlUrl="http://sostechblog.com"/>
             <outline type="rss" text="VanBragt.Net Virtualization - Home" title="VanBragt.Net Virtualization - Home" xmlUrl="http://virtualization.vanbragt.net/index.php?format=feed&amp;type=rss" htmlUrl="http://virtualization.vanbragt.net/"/>
-            <outline type="rss" text="Virtual Maestro" title="Virtual Maestro" xmlUrl="http://blogs.virtualmaestro.in/feeds/posts/default" htmlUrl="http://blogs.virtualmaestro.in/"/>
+            <outline type="rss" text="Virtual Maestro" title="Virtual Maestro" xmlUrl="https://blogs.virtualmaestro.in/feed/" htmlUrl="http://blogs.virtualmaestro.in/"/>
             <outline type="rss" text="VMwareInfo.Com" title="VMwareInfo.Com" xmlUrl="http://feeds.feedburner.com/IPMer" htmlUrl="http://www.vmwareinfo.com/"/>
             <outline type="rss" text="vhorizon" title="vhorizon" xmlUrl="http://vhorizon.co.uk/?feed=rss2" htmlUrl="http://vhorizon.co.uk"/>
             <outline type="rss" text="The Virtualist" title="The Virtualist" xmlUrl="http://www.thevirtualist.org/feed/" htmlUrl="http://www.thevirtualist.org"/>
